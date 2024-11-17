@@ -119,7 +119,7 @@ body {
 
 /* Start Landing */
 .landing {
-    background-image: url(/images/wallpaperflare.com_wallpaper (2).jpg);
+    background-image: url("./images/wallpaperflare.com_wallpaper (2).jpg");
     background-size: cover;
     /* background-position-y: -38px; */
     height: calc(100vh - 32px);
